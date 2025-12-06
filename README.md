@@ -20,7 +20,7 @@ The module provides an intuitive interface:
 
 For fmOS users clone via git:
 ```
-https://github.com/yourusername/MMM-FMLED.git
+https://github.com/tenbyte/MMM-FMLED.git
 ```
 
 For manual cloning: 
@@ -32,7 +32,7 @@ cd ~/MagicMirror/modules
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/MMM-FMLED.git
+git clone https://github.com/tenbyte/MMM-FMLED.git
 ```
 
 3. Add the module to your `config/config.js` (see Configuration below)

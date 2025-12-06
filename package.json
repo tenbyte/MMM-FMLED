@@ -1,0 +1,25 @@
+{
+  "name": "mmm-fmled",
+  "version": "1.0.0",
+  "description": "Touch-optimized Magic Mirror module for controlling LED and screen brightness",
+  "main": "MMM-FMLED.js",
+  "author": "Wiesty",
+  "license": "MIT",
+  "keywords": [
+    "magic mirror",
+    "MagicMirror²",
+    "module",
+    "led",
+    "brightness",
+    "backlight",
+    "touch",
+    "controller"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  }
+}

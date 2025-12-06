@@ -10,7 +10,6 @@ Touch-optimized Magic Mirror² module for controlling LED ring and screen bright
 - ⚙️ Flexible configuration (LED, screen, or both)
 - 🎪 Centered overlay popup with smooth animations
 
-## Screenshots
 
 The module provides an intuitive interface:
 - **Icon Buttons**: Two icons (LED 💡 and Screen 🖥️) to open controls
